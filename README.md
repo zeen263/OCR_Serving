@@ -7,7 +7,8 @@
 
 
 ## Architecture
-![arch](./img/architecture.png)
+![architecture](https://user-images.githubusercontent.com/42488309/123295860-18cbaa80-d551-11eb-833e-82355d78d8e1.png)
+
 
 
 
